@@ -348,9 +348,9 @@ Schedule-Section
 .schedule-date-border {
   border-left: 3px dashed var(--primary-color);
   position: absolute;
-  height: 700px;
+  height: 600px;
   left: 6.8rem;
-  top: 5px;
+  top: 9rem;
   z-index: -1;
 }
 
